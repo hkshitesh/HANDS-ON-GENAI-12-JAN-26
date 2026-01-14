@@ -26,3 +26,7 @@ https://colab.research.google.com/drive/1hsjwvGtcETQbWlnJbtmBU1WaGoiz28I6?usp=sh
 
 https://github.com/hkshitesh/MCP-SERVER-DS
 
+## Lab 6: RAG Implementation using Jupyter NB
+
+https://colab.research.google.com/drive/1Bl-N77c3la87VObG6-vGRVLDx15L-wnu?usp=sharing
+
