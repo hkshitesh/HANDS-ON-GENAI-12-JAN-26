@@ -14,3 +14,10 @@ https://colab.research.google.com/drive/1_90WRAl5CEpgJv8txrpmrnHGvwuv8s1E?usp=sh
 ## Lab 3: LLM Based Chatbot
 
 https://colab.research.google.com/drive/1hsjwvGtcETQbWlnJbtmBU1WaGoiz28I6?usp=sharing
+
+## Python Packages for AI-AGENT Lab
+
+        pip install phidata
+        pip install groq
+        pip install dotenv
+        pip install yfinance
