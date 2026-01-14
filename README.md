@@ -21,3 +21,8 @@ https://colab.research.google.com/drive/1hsjwvGtcETQbWlnJbtmBU1WaGoiz28I6?usp=sh
         pip install groq
         pip install dotenv
         pip install yfinance
+
+## Lab 5 : MCP Server Implementation Link
+
+https://github.com/hkshitesh/MCP-SERVER-DS
+
