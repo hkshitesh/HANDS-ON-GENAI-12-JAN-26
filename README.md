@@ -9,4 +9,4 @@ https://colab.research.google.com/drive/1IPBvDtafvIFXh3L9-g-YCxBIjE-Rif5C?usp=sh
 
 ## Lab 2: Zero Shot, Few Shot and CoT
 
-
+https://colab.research.google.com/drive/1_90WRAl5CEpgJv8txrpmrnHGvwuv8s1E?usp=sharing
